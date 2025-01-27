@@ -1,7 +1,7 @@
 # EE 322 A README File - Design 6
 ## Engineering Design 6 At Stevens Institute of Technology
 
-## About Joseph Welsko
+## About [Joseph Welsko](https://www.github.com/jwelsko)
 > *Joseph Welsko is a junior Electrical Engineering Student with a concentration in Power Engineering graduating in spring 2026.*<br>
 > *"The path to loving life starts with loving yourself." - Matthew Werner, 2025*
 ---
@@ -24,9 +24,6 @@
    - Maryland
    - New Jersey
    - Italy
-
-
-[Joseph's GitHub](https://www.github.com/jwelsko)
 
 ## **Most Recent Code I Wrote**
 ```python
