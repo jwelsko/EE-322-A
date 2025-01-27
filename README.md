@@ -28,8 +28,12 @@
 
 [Joseph's GitHub](https://www.github.com/jwelsko)
 
-## **Code Block Demo**
+## **Most Recent Code I Wrote**
 ```python
-# Example Python code
-def example_function():
-    print("Hello, World!")
+def _initialize_reservoir(self, pool_size, connection_probability):
+   """Initialize the reservoir with sparse random connections"""
+   weights = sparse.random(pool_size, pool_size, density=connection_probability)
+   weights = weights.toarray()
+   # Normalize weights to prevent explosion/vanishing
+   spectral_radius = np.max(np.abs(np.linalg.eigvals(weights)))
+   return weights / spectral_radius * 0.9
