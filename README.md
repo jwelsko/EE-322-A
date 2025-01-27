@@ -2,8 +2,8 @@
 ## Engineering Design 6 At Stevens Institute of Technology
 
 ## About Joseph Welsko
-> *Joseph Welsko is a junior Electrical Engineering Student with a concentration in Power Engineering graduating in spring 2026.*
-
+> *Joseph Welsko is a junior Electrical Engineering Student with a concentration in Power Engineering graduating in spring 2026.*<br>
+> *"The path to loving life starts with loving yourself." - Matthew Werner, 2025*
 ---
 
 ![Image of Joseph Welsko](https://media.licdn.com/dms/image/v2/D4E03AQHRzoTArei81g/profile-displayphoto-shrink_400_400/B4EZOrjK5mHkAk-/0/1733749944486?e=1743638400&v=beta&t=I_0jiHU8YCSkflioCin8hwWJSAyWgnHYfKmlxDwU-6Y)
