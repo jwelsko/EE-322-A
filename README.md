@@ -6,20 +6,24 @@
 
 ---
 
-## **Key Features**
-- **Bold:** Use this for emphasis on key terms.
-- *Italic:* Use this for optional or explanatory notes.
-- ***Bold & Italic:*** Use for very important emphasis.
+![Image of Joseph Welsko](https://media.licdn.com/dms/image/v2/D4E03AQHRzoTArei81g/profile-displayphoto-shrink_400_400/B4EZOrjK5mHkAk-/0/1733749944486?e=1743638400&v=beta&t=I_0jiHU8YCSkflioCin8hwWJSAyWgnHYfKmlxDwU-6Y)
+
+## **Main Interests**
+- **Microgrids:** Protecting power infrastructure.
+- *Power Generation Systems:* Sustainable and affordable power.
+- ***Critical Infrastructure Control Systems:*** Safeguarding infrastructure systems for the 21st century.
 
 ### Lists 
-1. **Ordered List** for sequential steps:
-   1. Step 1
-   2. Step 2
-   3. Step 3
-2. **Unordered List** for non-sequential items:
-   - Step A
-   - Step B
-   - Step C
+1. **Employment History** for sequential steps:
+   1. Founder, CarbonDex
+   2. Sales Engineer, Nodal Technologies
+   3. Software Developer, Nodal Technologies
+  
+      
+2. **Places I've Lived** for non-sequential items:
+   - Maryland
+   - New Jersey
+   - Italy
 
 
 [Joseph's GitHub](https://www.github.com/jwelsko)
