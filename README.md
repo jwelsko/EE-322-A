@@ -1,5 +1,5 @@
 # EE 322 A README File - Design 6
-## Engineering Design 6 At Stevens Institute of Technology
+## Engineering Design 6 at Stevens Institute of Technology
 
 [Group Project](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
 
