@@ -3,6 +3,12 @@
 
 [Group Project](https://sites.google.com/stevens.edu/ee322-circuit-vanguard/home)
 
+## Labs
+- [Lab 1](labs/lab1/README.md)
+- [Lab 2](labs/lab2/README.md)
+- [Lab 5](labs/lab5/README.md)
+- [Lab 6](labs/lab6/README.md)
+
 ## About [Joseph Welsko](https://www.github.com/jwelsko)
 > *Joseph Welsko is a junior Electrical Engineering Student with a concentration in Power Engineering graduating in spring 2026.*<br>
 > *"The path to loving life starts with loving yourself." - Matthew Werner, 2025*
