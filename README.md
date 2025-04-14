@@ -8,6 +8,7 @@
 - [Lab 2](labs/lab2/README.md)
 - [Lab 5](labs/lab5/README.md)
 - [Lab 6](labs/lab6/README.md)
+- [Lab 10](labs/lab10/README.md)
 
 ## About [Joseph Welsko](https://www.github.com/jwelsko)
 > *Joseph Welsko is a junior Electrical Engineering Student with a concentration in Power Engineering graduating in spring 2026.*<br>
